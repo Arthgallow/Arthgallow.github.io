@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2f4332f.chunk.css",
+    "main.js": "/static/js/main.2a4d32a6.chunk.js",
+    "main.js.map": "/static/js/main.2a4d32a6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.96a55e42.js",
+    "runtime-main.js.map": "/static/js/runtime-main.96a55e42.js.map",
+    "static/js/2.1c9cc3f7.chunk.js": "/static/js/2.1c9cc3f7.chunk.js",
+    "static/js/2.1c9cc3f7.chunk.js.map": "/static/js/2.1c9cc3f7.chunk.js.map",
+    "static/js/3.8933021a.chunk.js": "/static/js/3.8933021a.chunk.js",
+    "static/js/3.8933021a.chunk.js.map": "/static/js/3.8933021a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e2f4332f.chunk.css.map": "/static/css/main.e2f4332f.chunk.css.map",
+    "static/js/2.1c9cc3f7.chunk.js.LICENSE.txt": "/static/js/2.1c9cc3f7.chunk.js.LICENSE.txt",
+    "static/media/atHome.9aa1c709.jpg": "/static/media/atHome.9aa1c709.jpg",
+    "static/media/audify1.dd2d9e1d.PNG": "/static/media/audify1.dd2d9e1d.PNG",
+    "static/media/audify2.d990b28e.PNG": "/static/media/audify2.d990b28e.PNG",
+    "static/media/audify3.7a1492ac.PNG": "/static/media/audify3.7a1492ac.PNG",
+    "static/media/audify4.8b03730d.PNG": "/static/media/audify4.8b03730d.PNG",
+    "static/media/classA.c4407761.png": "/static/media/classA.c4407761.png",
+    "static/media/docker.7a9b6934.png": "/static/media/docker.7a9b6934.png",
+    "static/media/edited_img.7d10bfc8.jpg": "/static/media/edited_img.7d10bfc8.jpg",
+    "static/media/express.d61ef3d5.png": "/static/media/express.d61ef3d5.png",
+    "static/media/family.739a5a2e.jpg": "/static/media/family.739a5a2e.jpg",
+    "static/media/inTheSun.98494084.jpg": "/static/media/inTheSun.98494084.jpg",
+    "static/media/kumite1.29e629e9.PNG": "/static/media/kumite1.29e629e9.PNG",
+    "static/media/kumite2.09737eaa.PNG": "/static/media/kumite2.09737eaa.PNG",
+    "static/media/kumite3.34e94fbd.PNG": "/static/media/kumite3.34e94fbd.PNG",
+    "static/media/kumite4.cc74e559.PNG": "/static/media/kumite4.cc74e559.PNG",
+    "static/media/meAndLabeouf.cfc79449.jpg": "/static/media/meAndLabeouf.cfc79449.jpg",
+    "static/media/node.800fe92a.png": "/static/media/node.800fe92a.png",
+    "static/media/postgress.643d40d1.png": "/static/media/postgress.643d40d1.png",
+    "static/media/welding.7e7c23c0.jpg": "/static/media/welding.7e7c23c0.jpg",
+    "static/media/workinOut.eca02f35.jpg": "/static/media/workinOut.eca02f35.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96a55e42.js",
+    "static/js/2.1c9cc3f7.chunk.js",
+    "static/css/main.e2f4332f.chunk.css",
+    "static/js/main.2a4d32a6.chunk.js"
+  ]
+}
