@@ -1,0 +1,45 @@
+#skills{
+    padding-top:100px;
+    width: 70vw;
+}
+.mySkills{
+    width: 70vw;
+    height:70%;
+    display: grid;
+    grid-template-areas:
+    "top"
+    "bottom";
+}
+.header{
+    justify-self: center;
+    display: grid;
+    grid-area:top;
+}
+.finePring{
+    justify-self: center;
+}
+.list{
+
+    width:70vw;
+    display: grid;
+    grid-area:bottom;
+    display:flex;
+    flex-direction: row;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+.img{
+    margin: 20px;
+    height:8em;
+    width:auto
+}
+.python{
+    margin-top: -20px;
+    height: 13em;
+}
+.flask{
+    height: 8em;
+}
+li{
+    list-style: none;
+}

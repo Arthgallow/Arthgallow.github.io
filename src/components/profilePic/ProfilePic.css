@@ -1,0 +1,191 @@
+.profilePic{
+    z-index: 1;
+    height:168.98px;
+    width:168.98px;
+}
+.square_background{
+    position: relative;
+    background-color: rgb(58,96,110);
+    width: 265.56349186104045536818575966307px;
+    height: 265.56349186104045536818575966307px;
+}
+
+.octogon{
+    position: relative;
+    top:-507px;
+    margin:0;
+    padding:0;
+    width: 265.56349186104045536818575966307px;
+    height: 265.56349186104045536818575966307px;
+    /* border: solid 1px black; */
+
+    display: table;
+    table-layout: fixed;
+    border-spacing: 0 0;
+
+}
+.octogon-2{
+    position:relative;
+    left: 12.071067811865475244008443621048px;
+    top: -253.49242404917498012417731604202px;
+    margin:0;
+    padding:0;
+    width: 241.42135623730950488016887242097px;
+    height: 241.42135623730950488016887242097px;
+    /* border: solid 1px black; */
+    display: table;
+    table-layout: fixed;
+    border-spacing: 0 0;
+
+}
+
+.aboutMe-img{
+    background-color: transparent;
+    position: relative;
+    top: 200px;
+    width: 330px;
+
+}
+.rect_1{
+    display: table-cell;
+    vertical-align: top;
+	border-top: 77.781745930520227684092879831533px solid  #E0E0E0;
+	border-right: 77.781745930520227684092879831533px solid transparent;
+	border-bottom: 00px solid transparent;
+}
+.rect_2{
+    display: table-cell;
+    vertical-align: top;
+    background-color:tr;
+    grid-area: top-m;
+    height: 77.781745930520227684092879831533px;
+    width: 110px;
+}
+.rect_3{
+    display: table-cell;
+    vertical-align: top;
+	border-top: 00px solid transparent;
+	border-right: 77.781745930520227684092879831533px solid #E0E0E0;
+	border-bottom: 77.781745930520227684092879831533px solid transparent;
+}
+.rect_4{
+
+    display: table-cell;
+    vertical-align: top;
+    background-color: transparent;
+    grid-area: mid-l;
+    height: 110px;
+    width: 77.781745930520227684092879831533px;
+}
+
+.rect_5{
+    display: table-cell;
+    vertical-align: top;
+    background-color: transparent;
+    grid-area: mid-m;
+    height: 110px;
+    width: 110px;
+}
+.rect_6{
+    display: table-cell;
+    vertical-align: top;
+    background-color: transparent;
+    grid-area: mid-r;
+    height: 110px;
+    width: 77.781745930520227684092879831533px;
+}
+.rect_7{
+
+    display: table-cell;
+    vertical-align: top;
+	border-top: 00px solid transparent;
+	border-right: 77.781745930520227684092879831533px solid transparent;
+	border-bottom: 77.781745930520227684092879831533px solid #E0E0E0
+}
+.rect_8{
+    background-color: transparent;
+    display: table-cell;
+    vertical-align: top;
+    grid-area: bot-m;
+    height: 77.781745930520227684092879831533px;
+    width: 110px;
+}
+.rect_9{
+
+    display: table-cell;
+    vertical-align: top;
+	border-top: 77.781745930520227684092879831533px solid transparent;
+	border-right: 77.781745930520227684092879831533px solid #E0E0E0;
+	border-bottom: 00px solid transparent;
+}
+.rect_1-2{
+    display: table-cell;
+    vertical-align: top;
+	border-top: 70.710678118654752440084436210485px solid rgb(58,96,110);
+	border-right: 70.710678118654752440084436210485px solid transparent;
+	border-bottom: 00px solid transparent;
+}
+.rect_2-2{
+    display: table-cell;
+    vertical-align: top;
+    background-color: transparent;
+    grid-area: top-m;
+    height: 70.710678118654752440084436210485px;
+    width: 100px;
+}
+.rect_3-2{
+    display: table-cell;
+    vertical-align: top;
+	border-top: 00px solid transparent;
+	border-right: 70.710678118654752440084436210485px solid rgb(58,96,110);
+	border-bottom: 70.710678118654752440084436210485px solid transparent;
+}
+.rect_4-2{
+
+    display: table-cell;
+    vertical-align: top;
+    background-color: transparent;
+    grid-area: mid-l;
+    height: 100px;
+    width: 70.710678118654752440084436210485px;
+}
+
+.rect_5-2{
+    display: table-cell;
+    vertical-align: top;
+    background-color: transparent;
+    grid-area: mid-m;
+    height: 100px;
+    width: 100px;
+}
+.rect_6-2{
+    display: table-cell;
+    vertical-align: top;
+    background-color: transparent;
+    grid-area: mid-r;
+    height: 100px;
+    width: 70.710678118654752440084436210485px;
+}
+.rect_7-2{
+
+    display: table-cell;
+    vertical-align: top;
+	border-top: 00px solid transparent;
+	border-right: 70.710678118654752440084436210485px solid transparent;
+	border-bottom: 70.710678118654752440084436210485px solid rgb(58,96,110);
+}
+.rect_8-2{
+    background-color: transparent;
+    display: table-cell;
+    vertical-align: top;
+    grid-area: bot-m;
+    height: 70.710678118654752440084436210485px;
+    width: 100px;
+}
+.rect_9-2{
+
+    display: table-cell;
+    vertical-align: top;
+	border-top: 70.710678118654752440084436210485px solid transparent;
+	border-right: 70.710678118654752440084436210485px solid rgb(58,96,110);
+}

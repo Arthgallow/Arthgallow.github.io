@@ -1,0 +1,11 @@
+.footer{
+    align-content: center;
+    /* border:1px solid black; */
+    /* width: 70vw; */
+    display:grid;
+    justify-content: center;
+    /* background-color: #d1caca; */
+    /* background-color: inside; */
+    /* margin-bottom: none; */
+
+}

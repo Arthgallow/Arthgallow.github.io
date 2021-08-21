@@ -1,0 +1,12 @@
+.laptopScreen {
+  padding:1px;
+  position: relative;
+  top:-75px;
+  background-color:transparent;
+  text-align: center;
+  color:black;
+  padding-top:10em;
+  font-size: 0.14em;
+  text-decoration: none;
+  height:3em;
+  }

@@ -1,0 +1,29 @@
+.app_content{  height:100%;
+  display:grid;
+  /* justify-content: center; */
+  /* grid-template-columns:10fr 82fr; */
+  /* grid-template-rows: 30fr 70fr; */
+  grid-template-areas:
+  "top-r "
+  "main "
+  ;
+  /* align-content: center; */
+}
+
+.contact{
+  display:grid;
+  grid-area: top-r;
+  /* height:09px; */
+}
+
+.mainContent{
+  /* border: 1px solid black; */
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-self: center;
+  /* width: 100vw; */
+  /* padding-left: 15vw; */
+  grid-area:main;
+  min-width: 1000px;
+}

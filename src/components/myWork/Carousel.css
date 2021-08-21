@@ -1,0 +1,89 @@
+.carousel{
+    /* padding-top:100px; */
+    width: 98.9vw;
+    /* height: 100vh; */
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.carousel-inner{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.carousel-inner-left{
+    margin:1vw;
+    width: 30vw;
+    /* flex:20%; */
+
+}
+.carouselInfo{
+    color:white;
+    width:100%;
+    font-size:2em;
+    display: flex;
+    word-wrap:break-word ;
+}
+.carouselPics{
+    flex:20%;
+    height: 250px;
+    width: 500px;
+    display:flex;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.left{
+    /* margin-left:10px; */
+    display:flex;
+    flex: 5%;
+    height: 100%;
+    background-color: transparent;
+    place-items: center;
+}
+.arrow{
+    color:white;
+    font-size:1.5em;
+    background-color: rgba(0,0,0,0.5);
+}
+.arrow:hover{
+    color: rgb(0, 255, 0);
+}
+.center{
+    flex: 90%;
+    height: 100%;
+    background-color: transparent;
+    place-items: center;
+}
+
+.right{
+    display:flex;
+    flex: 5%;
+    height: 100%;
+    background-color: transparent;
+    place-items: center;
+    justify-content: right;
+
+}
+.liveBtn{
+    margin-top: 30px;
+    color:white;
+    font-size: 1.5em;
+}
+.liveBtn:hover{
+    color:rgb(134, 94, 6);
+    background-color:transparent;
+}
+.githubBtn{
+    margin-bottom: 25px;
+    color:white;
+    font-size: 1.7em;
+}
+.githubBtn:hover{
+    color:rgb(134, 94, 6);
+    background-color: transparent;
+}
